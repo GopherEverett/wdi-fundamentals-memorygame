@@ -47,3 +47,44 @@ main {
 img {
 	margin: 40px 8px;
 }
+footer {
+	text-transform: uppercase;
+	padding: 10px 20px;
+	background: #0D2c40;
+	color: white;
+	font-size: 14px;
+	letter-spacing: .08em;
+	font-weight: 500;
+}
+.insta {
+	text-decoration: none;
+	color: white;
+	font-family: "Raleway", sans-serif;
+
+}
+.copyright {
+	font-family: "Raleway", sans-serif;
+	float: left;
+}
+.message {
+	font-family: "Raleway", sans-serif;
+	float: right;
+}
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	content: " ";
+	clear: both;
+	height: 0;
+	font-size: 0;
+}
+.name {
+	color: #F15B31;
+	font-weight: 700;
+}
+a {
+	border-bottom: 2px solid transparent;
+}
+a:hover {
+	border-bottom: 2px solid white;
+}
