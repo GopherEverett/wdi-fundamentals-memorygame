@@ -17,3 +17,4 @@ checkForMatch();
 }
 flipCard(0);
 flipCard(2);
+
