@@ -25,10 +25,10 @@ h2 {
 
 }
 p {
-font-family: "Droid Serif", serif;
-font-size: 18px;
-line-height: 26px;
-text-transform: capitalize;
+	font-family: "Droid Serif", serif;
+	font-size: 18px;
+	line-height: 26px;
+	text-transform: capitalize;
 }
 header {
 	background-color: #F15B31;
